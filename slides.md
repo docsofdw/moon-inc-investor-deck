@@ -1,9 +1,9 @@
 ---
 theme: default
-background: https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920
 class: text-center
 highlighter: shiki
 lineNumbers: false
+css: './style.css'
 info: |
   ## Moon Inc. Investor Deck
   Building the Future

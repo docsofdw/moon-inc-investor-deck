@@ -1,0 +1,21 @@
+/* Apply Pirulen font globally */
+.slidev-layout {
+  font-family: "pirulen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-image: url('/images/bg-deck.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* For bold text */
+strong, b, .font-bold {
+  font-weight: 700;
+}
+
+/* For italic text */
+em, i, .italic {
+  font-style: italic;
+}
+
