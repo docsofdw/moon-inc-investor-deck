@@ -1,44 +1,37 @@
 ---
 layout: default
-class: hub-spoke-slide
+class: hub-simple
 ---
 
-# Hub-and-Spoke Strategy
+# HUB-AND-SPOKE STRATEGY
 
-<div class="subtitle-italic">Moon as Asia's Central Node</div>
+<div class="hub-subtitle">MOON AS ASIA'S CENTRAL NODE</div>
 
-<div class="hub-spoke-wrapper">
-<div class="hub-spoke-grid">
-<div class="hub-card">
-<div class="hub-card-icon"><div class="i-lucide:landmark"></div></div>
-<h3 class="hub-card-title">Hong Kong Hub</h3>
-<p class="hub-card-text">Regulatory, treasury, and governance headquarters.</p>
-</div>
+<div class="hub-container">
+  <div class="hub-card top-left">
+    <h3>HONG KONG HUB</h3>
+    <p>Regulatory, treasury, and governance headquarters.</p>
+  </div>
 
-<div class="hub-card">
-<div class="hub-card-icon"><div class="i-lucide:users"></div></div>
-<h3 class="hub-card-title">Partner Markets</h3>
-<p class="hub-card-text">Local distribution and consumer access.</p>
-</div>
+  <div class="hub-card top-right">
+    <h3>PARTNER MARKETS</h3>
+    <p>Local distribution and consumer access.</p>
+  </div>
 
-<div class="hub-card">
-<div class="hub-card-icon"><div class="i-lucide:moon"></div></div>
-<h3 class="hub-card-title">Aligned Incentives</h3>
-<p class="hub-card-text">Moon retains equity stakes and revenue participation.</p>
-</div>
+  <div class="hub-center">
+    <h3>MOON INC.</h3>
+    <p>Asia's central Bitcoin node</p>
+  </div>
 
-<div class="hub-card">
-<div class="hub-card-icon"><div class="i-lucide:share-2"></div></div>
-<h3 class="hub-card-title">Network Effects</h3>
-<p class="hub-card-text">Each new market multiplies reach and valuation leverage.</p>
-</div>
-</div>
+  <div class="hub-card bottom-left">
+    <h3>ALIGNED INCENTIVES</h3>
+    <p>Moon retains equity stakes and revenue participation.</p>
+  </div>
 
-<div class="hub-core">
-<div class="hub-core-ring"></div>
-<div class="hub-core-icon"><div class="i-lucide:radar"></div></div>
-<div class="hub-core-title">Moon Inc.</div>
-<p class="hub-core-text">Asia's central Bitcoin node</p>
+  <div class="hub-card bottom-right">
+    <h3>NETWORK EFFECTS</h3>
+    <p>Each new market multiplies reach and valuation leverage.</p>
+  </div>
+  
+  <div class="hub-lines"></div>
 </div>
-</div>
-
