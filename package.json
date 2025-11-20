@@ -8,13 +8,16 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@iconify-json/lucide": "^1.2.16",
     "@slidev/cli": "^52.6.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "@iconify-json/lucide": "^1.2.16",
-    "@unocss/reset": "^0.65.3",
-    "lucide": "^0.552.0",
-    "unocss": "^0.65.3",
+    "@unocss/reset": "^66.5.4",
     "vue": "^3.5.22"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.2.403",
+    "@iconify/vue": "^5.0.0",
+    "unocss": "^66.5.4"
   }
 }

@@ -13,28 +13,28 @@ class: transformation-slide
 <div class="transformation-features">
 <div class="transformation-feature">
 <div class="feature-icon">
-<div class="i-lucide:lightbulb"></div>
+<LucideIcon name="lightbulb" size="20px" />
 </div>
 <p class="feature-text">Launch in 2025 with Ballet, DV8 (Thailand), and BitPlanet (Korea).</p>
 </div>
 
 <div class="transformation-feature">
 <div class="feature-icon">
-<div class="i-lucide:credit-card"></div>
+<LucideIcon name="credit-card" size="20px" />
 </div>
 <p class="feature-text">Physical Bitcoin card combining cold storage and prepaid usability.</p>
 </div>
 
 <div class="transformation-feature">
 <div class="feature-icon">
-<div class="i-lucide:network"></div>
+<LucideIcon name="network" size="20px" />
 </div>
 <p class="feature-text">Distributed through existing telecom and retail networks.</p>
 </div>
 
 <div class="transformation-feature">
 <div class="feature-icon">
-<div class="i-lucide:bitcoin"></div>
+<LucideIcon name="bitcoin" size="20px" />
 </div>
 <p class="feature-text">Enables mass Bitcoin adoption via a familiar consumer product.</p>
 </div>

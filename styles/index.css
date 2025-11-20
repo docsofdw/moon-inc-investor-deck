@@ -1,0 +1,10 @@
+/* Import the main style.css file */
+@import '../style.css';
+
+/* Icon fix - ensure icons are displayed properly */
+[class^="i-lucide-"],
+[class*=" i-lucide-"] {
+  display: inline-block !important;
+  width: 1em !important;
+  height: 1em !important;
+}

@@ -34,8 +34,10 @@ class: leadership-slide
     <img src="/images/karen.jpeg" alt="Karen Tseng" class="leader-image" />
     <div class="leader-info">
       <h3 class="leader-name">Karen Tseng <span class="leader-title">CSO</span></h3>
-      <p class="leader-bio">Previously ran portfolio of HK & CN public companies in corporate finance and strategic planning, CFA</p>
+      <p class="leader-bio">Previously Corporate Finance at HK & CN listed companies, strategic planning, CFA</p>
     </div>
   </div>
 </div>
+
+
 

@@ -10,30 +10,30 @@ class: legacy-business-slide
 <div class="legacy-grid">
   <div class="legacy-item">
     <div class="legacy-icon">
-      <div class="i-lucide-store"></div>
+      <LucideIcon name="store" size="32px" />
     </div>
     <p class="legacy-text">7 retail stores and wholesale distribution across Hong Kong.</p>
   </div>
   
   <div class="legacy-item">
     <div class="legacy-icon">
-      <div class="i-lucide-handshake"></div>
+      <LucideIcon name="handshake" size="32px" />
     </div>
     <p class="legacy-text">Licensed relationships with major telecom providers.</p>
   </div>
   
   <div class="legacy-item">
     <div class="legacy-icon">
-      <div class="i-lucide-banknote"></div>
+      <LucideIcon name="banknote" size="32px" />
     </div>
     <p class="legacy-text">Consistent revenue and cash flow.</p>
   </div>
   
   <div class="legacy-item">
     <div class="legacy-icon">
-      <div class="i-lucide-gavel"></div>
+      <LucideIcon name="gavel" size="32px" />
     </div>
-    <p class="legacy-text">Decades of regulatory compliance under HKEN oversight.</p>
+    <p class="legacy-text">Decades of regulatory compliance under HKEX oversight.</p>
   </div>
 </div>
 

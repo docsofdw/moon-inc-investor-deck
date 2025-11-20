@@ -3,7 +3,7 @@ layout: default
 class: timeline-slide
 ---
 
-# From Telecom Roots to <span class="orange-highlight">Bitcoin</span> Infrastructure
+# From Telecom Roots to <span class="orange-highlight">Bitcoin</span> <span class="orange-highlight">Infrastructure</span>
 
 ## Genesis & Corporate Evolution
 
@@ -45,8 +45,10 @@ class: timeline-slide
     </div>
     <div class="timeline-event">
       <div class="event-year">2025</div>
-      <p>Launch of Moon prepaid card, upgraded to OTCQX, initiated Asia expansion, acquired 28.88 BTC for treasury reserves.</p>
+      <p>Launch of Moon prepaid card, upgraded to OTCQX, initiated Asia expansion, acquired 35 BTC for treasury reserves.</p>
     </div>
   </div>
 </div>
+
+
 

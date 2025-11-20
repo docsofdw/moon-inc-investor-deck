@@ -15,9 +15,25 @@ As part of its long-term strategy, the company is accumulating Bitcoin within it
 
 ## Strategic Investors
 
-**UTXO** - Set up to invest in Bitcoin opportunities by the founders of BTC Inc., the leading Bitcoin media group that publishes Bitcoin Magazine and organizes the largest Bitcoin Conferences globally
-
-**Sora Ventures** - Founded by Jason Fang to be Asia's largest Bitcoin VC fund; spearheading multiple ListCo ventures
+<div class="strategic-investors">
+  <div class="investor-item">
+    <img src="/images/utxo.png" alt="UTXO" class="investor-logo">
+    <div class="investor-content">
+      <h3>UTXO</h3>
+      <p>Set up to invest in Bitcoin opportunities by the founders of BTC Inc., the leading Bitcoin media group that publishes Bitcoin Magazine and organizes the largest Bitcoin Conferences globally</p>
+    </div>
+  </div>
+  
+  <div class="investor-item">
+    <img src="/images/sora-logo.png" alt="Sora Ventures" class="investor-logo">
+    <div class="investor-content">
+      <h3>Sora Ventures</h3>
+      <p>Founded by Jason Fang to be Asia's largest Bitcoin VC fund; spearheading multiple ListCo ventures</p>
+    </div>
+  </div>
+</div>
 
 </div>
+
+
 

@@ -10,28 +10,28 @@ class: global-context-slide
 <div class="context-grid">
 <div class="context-card">
 <div class="context-icon">
-<div class="i-lucide:building-2"></div>
+<LucideIcon name="building-2" size="28px" />
 </div>
 <p class="context-text">Western allocators (BlackRock, Fidelity) mainstreaming Bitcoin.</p>
 </div>
 
 <div class="context-card">
 <div class="context-icon">
-<div class="i-lucide:landmark"></div>
+<LucideIcon name="landmark" size="28px" />
 </div>
 <p class="context-text">Corporate treasuries adopting Bitcoin as reserve asset.</p>
 </div>
 
 <div class="context-card">
 <div class="context-icon">
-<div class="i-lucide:globe"></div>
+<LucideIcon name="globe" size="28px" />
 </div>
 <p class="context-text">Hong Kong and Japan lead Asia's regulated Bitcoin markets.</p>
 </div>
 
 <div class="context-card">
 <div class="context-icon">
-<div class="i-lucide:rocket"></div>
+<LucideIcon name="rocket" size="28px" />
 </div>
 <p class="context-text">Moon is Asia's publicly traded vehicle for Bitcoin transition.</p>
 </div>
